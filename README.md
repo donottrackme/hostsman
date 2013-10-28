@@ -1,6 +1,6 @@
-Hostsman Dutch Trackers Edition
+Hostsman Dutch Edition 
 ===============================
-
+Thanks to:
 https://www.donottrackme.nl
 
 Hostsman Website
